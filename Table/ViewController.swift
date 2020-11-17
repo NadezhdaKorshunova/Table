@@ -2,12 +2,14 @@
 //  ViewController.swift
 //  Table
 //
-//  Created by user on 13/11/2020.
+//  Created by user on 13/11/2020
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController{
+    
+
 
     override func viewDidLoad() {
         super.viewDidLoad()
